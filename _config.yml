@@ -1,0 +1,11 @@
+name: Dylan Murphy
+email: dmurphy@math.arizona.edu
+description: > 
+  I am a Ph.D. candidate in the Department of Mathematics at the University of Arizona.
+  My rsearch is focused on nonlinear integrable equations and related topics.
+baseurl: ""
+url: "http://mpdylan.github.io"
+github_username: mpdylan
+
+markdown: kramdown
+
