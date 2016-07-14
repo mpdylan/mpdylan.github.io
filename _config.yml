@@ -8,4 +8,4 @@ url: "http://mpdylan.github.io"
 github_username: mpdylan
 
 markdown: kramdown
-
+permalink: /blog/:year/:month/:day/:title
