@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First post
+category: posts
 date: 2016-12-28
 ---
 

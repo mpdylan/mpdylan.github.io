@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Teaching
+category: pages
 permalink: /teaching/
 ---
 

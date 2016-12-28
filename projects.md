@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+category: pages
 permalink: /projects/
 ---
 
