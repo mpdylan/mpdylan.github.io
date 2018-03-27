@@ -5,25 +5,39 @@ category: pages
 permalink: /research/
 ---
 
-## Discrete Schroedinger operators
+This page is a brief summary of some of my current research.
 
-My current research focuses on discrete Schroedinger operators.
-These are an integer-lattice discretization of the familiar Schroedinger operator \(Q = \partial^2 + q(x)\) and can be regarded as finite or infinite tridiagonal matrices.
+## Discrete integrable systems
+
+Discrete Schr\"odinger operators are integer-lattice discretization- of the familiar Schroedinger operator \(Q = \partial^2 + q(x)\) and can be regarded as finite or infinite tridiagonal matrices.
 Half-line discrete Schroedinger operators are intimately connected with orthogonal polynomials on the real line, through the well-known three-term recurrence relation which is expressed as a tridiagonal matrix.
+I am currently working to expand the algebrogeometric spectral theory of discrete Schr\"odinger operators and the integrable nonlinear lattice equations (such as the Toda lattice system) associated with them.
 
-#### Floquet theory
+I am also interested in other discrete spectral problems, such as those associated with orthogonal polynomials on the unit circle and the Ablowitz-Ladik system of equations (which is a spatial discretization of the nonlinear Schr\"odinger system).
 
-Mumford and van Moerbeke established a 1:1 correspondence between a broad class of periodic difference operators (including discrete Schroedinger operators) and algebraic curves which encode the spectrum of these operators.
-In the hyperelliptic case, this makes a nice analogy for the spectral curves associated to Korteweg-de Vries equations with periodic inital data.
-I am working on constructing the correct geometric analogue of the scattering-class operators from the KdV equation in the discrete setting of Mumford and van Moerbeke.
+### Scattering limits of algebrogeometric theory
 
-#### Scattering limits 
+The initial-value problem for the Korteweg-de Vries equation for periodic or quasiperiodic initial data is solved by an algebrogeometric construction, where the role played by the transmission coefficient in the inverse scattering transform is played by a hyperelliptic Riemann surface.
+In this setting, the nonlinear KdV flow is linearized on the Jacobian of this curve, and the inverse transform is mediated by theta functions.
+In 1990, Ercolani and McKean used a limiting procedure to transfer this geometric interpretation to the scattering context.
 
-#### Discrete Darboux transformations
+The same limiting procedure can be applied in the case of discrete Schr\"odinger operators and orthogonal polynomials on the unit circle, with some complications due to the different form of the spectra of such operators.
+
+### Discrete Darboux transformations
 
 The Darboux transformation is a method for producing, from a beginning operator \(Q = \partial^2 + q(x)\) and a known solution to the equation \(Qf = \lambda f\), a new operator \(\tilde Q = \partial^2 + \tilde q(x)\) and function \(\tilde f\) satisfying \(\tilde Q \tilde f = \lambda \tilde f\).
 This transformation has gained recent attention for its ability to easily produce formulas for solutions to several soliton equations; the Lax equations associated to, for instance, the KdV equation are preserved under the Darboux transformation, so starting from a known solution to KdV one may apply the Darboux transformation and obtain a new solution to KdV.
 Remarkably, even the trivial solution may be used as a starting point to construct nontrivial solutions, including the general multisoliton solution.
 
-I am currently exploring an analog of this transformation in the discrete setting.
+An analogue of this transformation also exists in the discrete Schr\"odinger operator setting, where it is known as a single commutation method, since the construction of the new operator is accomplished by factoring the initial operator into two first-order operators and permuting the factors.
+An infinitesimal version of these transformations can be used to generate the entire isospectral manifold corresponding to a fixed transmission coefficient.
+Some complications are introduced in the discrete setting, most notably as a result of the fact that \(\mathrm{spec} Q\) is bounded (where in the continuous setting, it is generically bounded only below).
+
+## Machine learning and OCR
+
+Since 2017 I have been working (with Marek Rychlik, Yan Han, and Mohammed Moussa) on methods for information recovery, metadata and semantics generation by means of optical character recognition (OCR).
+In particular, our work is concerned with developing methods for OCR which work on currently underserved languages (such as Persian and traditional Chinese) or information formats (such as mathematical or chemical formulas, or tabular data in scientific papers).
+We are also interested in applying machine learning techniques to the OCR-processed information to extract metadata and semantic information in addition to the machine-readable text.
+This will have immediate application at the University of Arizona, which due to an ongoing collaboration with the Afghanistan Center at Kabul University, currently houses one of the largest collections in the world of documents in the Pashto and Dari languages.
+This collection is in the form of digitized, but not machine-readable (or searchable), documents.
 
