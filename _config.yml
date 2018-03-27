@@ -6,6 +6,8 @@ description: >
 baseurl: ""
 url: "http://mpdylan.github.io"
 github_username: mpdylan
+mastodon_username: dylan
+mastodon_instance: scholar.social
 
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
