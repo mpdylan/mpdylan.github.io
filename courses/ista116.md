@@ -1,13 +1,9 @@
 ---
 layout: syllabus
-title: ISTA 116
+title: ISTA 116: Statistical Foundations for the Information Age
 category: courses
 permalink: /courses/ista116/ 
 ---
-
-# ISTA 116: Statistical Foundations for the Informatian Age
-
-
 
 ## Course Overview
 
