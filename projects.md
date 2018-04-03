@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: GitHub
 category: pages
 permalink: /projects/
 ---
