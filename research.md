@@ -9,11 +9,11 @@ This page is a brief summary of some of my current research.
 
 ## Discrete integrable systems
 
-Discrete Schr\"odinger operators are integer-lattice discretization- of the familiar Schroedinger operator \(Q = \partial^2 + q(x)\) and can be regarded as finite or infinite tridiagonal matrices.
+Discrete Schroedinger operators are integer-lattice discretization- of the familiar Schroedinger operator \\(Q = \partial^2 + q(x)\\) and can be regarded as finite or infinite tridiagonal matrices.
 Half-line discrete Schroedinger operators are intimately connected with orthogonal polynomials on the real line, through the well-known three-term recurrence relation which is expressed as a tridiagonal matrix.
 I am currently working to expand the algebrogeometric spectral theory of discrete Schr\"odinger operators and the integrable nonlinear lattice equations (such as the Toda lattice system) associated with them.
 
-I am also interested in other discrete spectral problems, such as those associated with orthogonal polynomials on the unit circle and the Ablowitz-Ladik system of equations (which is a spatial discretization of the nonlinear Schr\"odinger system).
+I am also interested in other discrete spectral problems, such as those associated with orthogonal polynomials on the unit circle and the Ablowitz-Ladik system of equations (which is a spatial discretization of the nonlinear Schroedinger system).
 
 ### Scattering limits of algebrogeometric theory
 
@@ -21,7 +21,7 @@ The initial-value problem for the Korteweg-de Vries equation for periodic or qua
 In this setting, the nonlinear KdV flow is linearized on the Jacobian of this curve, and the inverse transform is mediated by theta functions.
 In 1990, Ercolani and McKean used a limiting procedure to transfer this geometric interpretation to the scattering context.
 
-The same limiting procedure can be applied in the case of discrete Schr\"odinger operators and orthogonal polynomials on the unit circle, with some complications due to the different form of the spectra of such operators.
+The same limiting procedure can be applied in the case of discrete Schroedinger operators and orthogonal polynomials on the unit circle, with some complications due to the different form of the spectra of such operators.
 
 ### Discrete Darboux transformations
 
@@ -29,7 +29,7 @@ The Darboux transformation is a method for producing, from a beginning operator 
 This transformation has gained recent attention for its ability to easily produce formulas for solutions to several soliton equations; the Lax equations associated to, for instance, the KdV equation are preserved under the Darboux transformation, so starting from a known solution to KdV one may apply the Darboux transformation and obtain a new solution to KdV.
 Remarkably, even the trivial solution may be used as a starting point to construct nontrivial solutions, including the general multisoliton solution.
 
-An analogue of this transformation also exists in the discrete Schr\"odinger operator setting, where it is known as a single commutation method, since the construction of the new operator is accomplished by factoring the initial operator into two first-order operators and permuting the factors.
+An analogue of this transformation also exists in the discrete Schroedinger operator setting, where it is known as a single commutation method, since the construction of the new operator is accomplished by factoring the initial operator into two first-order operators and permuting the factors.
 An infinitesimal version of these transformations can be used to generate the entire isospectral manifold corresponding to a fixed transmission coefficient.
 Some complications are introduced in the discrete setting, most notably as a result of the fact that \(\mathrm{spec} Q\) is bounded (where in the continuous setting, it is generically bounded only below).
 
