@@ -11,7 +11,7 @@ This page is a brief summary of some of my current research.
 
 Discrete Schroedinger operators are integer-lattice discretization- of the familiar Schroedinger operator \\(Q = \partial^2 + q(x)\\) and can be regarded as finite or infinite tridiagonal matrices.
 Half-line discrete Schroedinger operators are intimately connected with orthogonal polynomials on the real line, through the well-known three-term recurrence relation which is expressed as a tridiagonal matrix.
-I am currently working to expand the algebrogeometric spectral theory of discrete Schr\"odinger operators and the integrable nonlinear lattice equations (such as the Toda lattice system) associated with them.
+I am currently working to expand the algebrogeometric spectral theory of discrete Schrodinger operators and the integrable nonlinear lattice equations (such as the Toda lattice system) associated with them.
 
 I am also interested in other discrete spectral problems, such as those associated with orthogonal polynomials on the unit circle and the Ablowitz-Ladik system of equations (which is a spatial discretization of the nonlinear Schroedinger system).
 
