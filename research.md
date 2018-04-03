@@ -25,13 +25,13 @@ The same limiting procedure can be applied in the case of discrete Schroedinger 
 
 ### Discrete Darboux transformations
 
-The Darboux transformation is a method for producing, from a beginning operator \(Q = \partial^2 + q(x)\) and a known solution to the equation \(Qf = \lambda f\), a new operator \(\tilde Q = \partial^2 + \tilde q(x)\) and function \(\tilde f\) satisfying \(\tilde Q \tilde f = \lambda \tilde f\).
+The Darboux transformation is a method for producing, from an operator \\(Q = \partial^2 + q(x)\\) and a solution to the equation \\(Qf = \lambda f\\), a new operator \\(\tilde Q = \partial^2 + \tilde q(x)\\) and function \\(\tilde f\\) satisfying \\(\tilde Q \tilde f = \lambda \tilde f\\).
 This transformation has gained recent attention for its ability to easily produce formulas for solutions to several soliton equations; the Lax equations associated to, for instance, the KdV equation are preserved under the Darboux transformation, so starting from a known solution to KdV one may apply the Darboux transformation and obtain a new solution to KdV.
 Remarkably, even the trivial solution may be used as a starting point to construct nontrivial solutions, including the general multisoliton solution.
 
 An analogue of this transformation also exists in the discrete Schroedinger operator setting, where it is known as a single commutation method, since the construction of the new operator is accomplished by factoring the initial operator into two first-order operators and permuting the factors.
 An infinitesimal version of these transformations can be used to generate the entire isospectral manifold corresponding to a fixed transmission coefficient.
-Some complications are introduced in the discrete setting, most notably as a result of the fact that \(\mathrm{spec} Q\) is bounded (where in the continuous setting, it is generically bounded only below).
+Some complications are introduced in the discrete setting, most notably as a result of the fact that \\(\mathrm{spec} Q\\) is bounded (where in the continuous setting, it is generically bounded only below).
 
 ## Machine learning and OCR
 
