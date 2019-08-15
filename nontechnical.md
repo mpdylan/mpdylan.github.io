@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-category: pages
+category: none
 permalink: /research/nontech
 ---
 
@@ -13,11 +13,11 @@ If we think of positions in the horizontal and the vertical, then we have to kee
 But the problem is made simple and the solution made clear by merely rotating the coordinates -- tilting our heads to the side until the ramp looks horizontal.
 
 What this simple example exposes is that our initial viewpoint as observers is not always the best way to look at the world.
-Choosing an angle that centers the objects we are trying to study simplifies and clarifies the 
+Choosing an angle that centers the objects we are trying to study 
 
 ### The Motion of Planets
 
-The idea of changing perspective 
+We could have solved the problem of 
 Imagine trying to describe the motion of a planet around the sun.
 If we try to look from the outside and keep track of how each object is moving, we will be hopelessly lost, or at least badly confused.
 We need to keep track of three coordinates, \\(x, y, z\\) for each of the two objects.
@@ -26,6 +26,7 @@ There is so much to keep track of!
 
 But if we let go of our fixed, outside perspective, we can greatly simplify the problem.
 The planet does not "know" where it is from our outside perspective; all it can see is how far away the sun is, and in which direction it lies.
+This means we can describe the motion of the system in only two variables:
 
 
 But what if the best viewpoint on the system is not always the same?
@@ -38,5 +39,7 @@ The two-body problem has a comforting simplicity to it: regardless of the size o
 The details may vary, but the overall picture never varies.
 But the systems I study do not have this simplicity; the variety of possible solutions and behaviors is wider.
 Perspectives that allow us to completely solve the equations in one situation may not even make sense to write down in another.
+
+
 
 The goal of this program of research is to unify two of these seemingly disparate perspectives.
