@@ -21,11 +21,11 @@ I am also interested in other discrete spectral problems, such as those associat
 
 The initial-value problem for the Korteweg-de Vries equation for periodic or quasiperiodic initial data is solved by an algebrogeometric construction, where the role played by the transmission coefficient in the inverse scattering transform is played by a hyperelliptic Riemann surface.
 In this setting, the nonlinear KdV flow is linearized on the Jacobian of this curve, and the inverse transform is mediated by theta functions.
-In 1990, Ercolani and McKean used a limiting procedure to transfer this geometric interpretation to the scattering context.
+In 1990, Ercolani and McKean used a limiting procedure to transfer this geometric interpretation to the scattering context.[^2]
 
 The same limiting procedure can be applied in the case of discrete Schroedinger operators and orthogonal polynomials on the unit circle, with some complications due to the different form of the spectra of such operators.
 
-Code for associated numerical calculations may be found in my repository [Floquet](https://github.com/mpdylan/Floquet/)
+Code for associated numerical calculations may be found in my repository [Floquet](https://github.com/mpdylan/Floquet/).
 
 ### Discrete Darboux transformations
 
@@ -33,9 +33,9 @@ The Darboux transformation is a method for producing, from an operator \\(Q = \p
 This transformation has gained recent attention for its ability to easily produce formulas for solutions to several soliton equations; the Lax equations associated to, for instance, the KdV equation are preserved under the Darboux transformation, so starting from a known solution to KdV one may apply the Darboux transformation and obtain a new solution to KdV.
 Remarkably, even the trivial solution may be used as a starting point to construct nontrivial solutions, including the general multisoliton solution.
 
-An analogue of this transformation also exists in the discrete Schroedinger operator setting, where it is known as a single commutation method, since the construction of the new operator is accomplished by factoring the initial operator into two first-order operators and permuting the factors.
-In my dissertation I show that this single commutation may be made infinitesimal in a manner following the analogous procedure of McKean[^1] 
-
+An analogue of this transformation also exists in the setting of discrete operators, where it is known as a single commutation method, since the construction of the new operator is accomplished by factoring the initial operator into two first-order operators and permuting the factors.
+In my dissertation I show that this single commutation may be made infinitesimal in a manner following the analogous procedure of McKean[^1].
+This infinitesimal transformation generates a non-local flow on the space of Jacobi operators which may be localized in a manner that generates, at various orders, all flows of the Toda hierarchy of lattice equations.
 
 ## Machine learning and OCR
 
