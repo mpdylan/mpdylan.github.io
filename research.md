@@ -7,7 +7,7 @@ permalink: /research/
 
 This page is a brief summary of some of my current research.
 
-For a non-technical description of my work on infinite-period limits of Floquet theory, [click here](https://mpdylan.github.io/research/nontech/).
+For a non-technical description of my work on infinite-period limits of Floquet theory, [click here](https://mpdylan.github.io/posts/nontech/).
 
 ## Discrete integrable systems
 

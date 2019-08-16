@@ -2,10 +2,8 @@
 layout: page
 title: Relating Two Perspectives on Integrable Systems
 category: posts
-permalink: /posts/nontech1
+permalink: /nontech/
 ---
-
-## Relating Two Perspectives on Integrable Systems
 
 Integrable systems are physical models; that is, models that describe motion or change in a physical system.
 "Integrable" means that we can find exact solutions, allowing us to predict the future position of our system using a formula.
