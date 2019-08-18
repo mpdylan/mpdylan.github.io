@@ -13,24 +13,21 @@ We will cover structural concepts of programming and computational problem solvi
 ### Who this course is for
 
 If you have little or no prior experience in programming, this course is for you. 
-If you have substantial prior experience in programming, then this course is probably not for you (even if you are unfamiliar with Python specifically). 
-If you have such experience, please contact the instructor to discuss a better course for you to take.
+If you have substantial prior experience in programming, then this course is probably not for you (even if you are unfamiliar with Python specifically).
+You are welcome to enroll, but keep in mind that attendance and in-class work are required.
 
 ### Prerequisites
-The prerequisite for this course is math at the level of MATH 112 (College Algebra). 
-Students who have not completed MATH 112 with a grade of C or better may enroll with the permission of the instructor; please contact me.
+
+This course does not require any previous programming experience, or any significant computational experience of any kind.
+However, at times we will ask you to solve problems that require basic algebra or geometry to complete.
+As such, the prerequisite for this course is math at the level of MATH 112 (College Algebra). 
+
+If you have not completed MATH 112 (or an equivalent course at another school) with a grade of C or better, but believe that you are adequately prepared, please contact me for permission to enroll.
 
 ### Technical requirements
 
 This course requires you to write and execute Python code. 
 As such, you will need a computer that can run Python. 
 This generally means a computer running a conventional desktop/laptop operating system, such as Windows, Mac OS, or Linux. 
-
-Occasionally, students want to take this course using a Chromebook.
-This is not impossible, but will require extra steps.
-My recommendation is to obtain an instance on a cloud service such as Amazon Web Services.
-If you would like to do this, contact me and I can explain the basic steps.
-
-## Required work
-
+Most importantly, you cannot run Python on a Chromebook without special measures.
 

@@ -17,6 +17,18 @@ This course is an introduction to statistics, covering
 
 In addition to statistics, this course serves as an introduction to the R programming language and the associated RStudio development environment.
 
+### Learning objectives
+
+The goal of this course is to give you the tools to describe, interpret, and analyze a data set, including an analysis of the methods used to collect the data and the limitations and biases that may be present.
+We take the perspective that uncertainty is an intrinsic aspect of working with empirical data, and that 
+After completing this course, you will be able to use data to draw informed and statistically justified conclusions--and, equally importantly, to critically evaluate data-based arguments and analyses for the strength of their conclusions and the scope of their applicability.
+
+## Who this course is for
+
+This course is for anyone interested in using statistical methods to understand, consume, and present data.
+Unlike most introductory-level statistics courses, we use the powerful and flexible statistical software package RStudio.
+This will give you the ability to go as far as you need or want to in your study of statistics, without being limited by your tools.
+
 ## Prerequisites and required technology
 
 This course requires a basic competency in algebra and familiarity with elementary functions, such as square roots and logarithms. This can be demonstrated by course credit in MATH 112 (College Algebra) or a sufficient score on the mathematics placement exam.
@@ -26,12 +38,8 @@ It is important that you don't fall behind on this aspect of the course, as the 
 
 It is strongly recommended that you have a computer capable of running R and RStudio, so that you are able to complete assignments outside of the lab period.
 R and RStudio run on Windows, Mac, and several distributions of Linux, but notably *not* on Chrome OS.
-If you use a Chromebook and you wish to run R, you must install Linux on it.
-
-## Attendance policy
-
-Attendance is expected at all course meetings and lab sections.
-Lab attendance is factored directly into your grade, and class attendance is required to complete the in-class quizzes.
+If you use a Chromebook and you wish to run R, you must either install Linux on it, or use a cloud-computing service to run RStudio.
+Feel free to contact me for assistance with getting this set up.
 
 ## Assignments
 
@@ -54,7 +62,7 @@ Generally, lab assignments will be due one week after the corresponding lab sect
 The grade breakdown is as follows:
 * Lab assignments: 14 * 2% = 28%
 * Lab attendance: 14 * 1% = 14%
-* In-class quizzes: 18%
+* In-class quizzes and polls: 18%
 * Exams: 2 * 20% = 40%
 
 ## Academic Honesty
@@ -67,6 +75,10 @@ Specific to this course: it is encouraged that you work together with your fello
 
 Failing to cite your collaborators or copying code straight from other students may result in loss of credit for the assignment or formal Academic Integrity proceedings.
 
-## Students with disabilities
+### Special needs and accommodations
 
+Students who need special accommodation or services must register with the Disability Resources Center (DRC).
+See <https://drc.arizona.edu/> for details.
 
+In addition, you should request that the DRC send notification to your instructor of your need for accommodations as soon as possible.
+If your accommodations will impact your ability to participate in the normal course activities, please arrange a meeting with the instructor to discuss them. 

@@ -10,7 +10,7 @@ permalink: /courses/ista311
 This course is a study in methods for deriving information from and making decisions based on limited or noisy data.
 In the information age, large amounts of data are created on a near-constant basis.
 Unfortunately, the sources of this data are often of low quality compared to the controlled studies for which simple statistical inference techniques are effective.
-In order to exploit this abundance, we require methods to incorporate data into our models and decisions while accounting for the uncertainty introduced by this ``noisy'' data.
+In order to exploit this abundance, we require methods to incorporate data into our models and decisions while accounting for the uncertainty introduced by this "noisy" data.
 Many of these tools can be understood in terms of *conditional probability*.
 
 The course will begin with mathematical preliminaries, including set theory and Boolean algebra, the basics of mathematical reasoning, combinatorics, and discrete and continuous probability spaces.
