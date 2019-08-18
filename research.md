@@ -7,7 +7,7 @@ permalink: /research/
 
 This page is a brief summary of some of my current research.
 
-For a non-technical description of my work on infinite-period limits of Floquet theory, [click here](https://mpdylan.github.io/research/nontech/).
+For a non-technical description of my work on infinite-period limits of Floquet theory, [click here](https://mpdylan.github.io/posts/nontech/).
 
 ## Discrete integrable systems
 
@@ -44,6 +44,8 @@ In particular, our work is concerned with developing methods for OCR which work 
 We are also interested in applying machine learning techniques to the OCR-processed information to extract metadata and semantic information in addition to the machine-readable text.
 This will have immediate application at the University of Arizona, which due to an ongoing collaboration with the Afghanistan Center at Kabul University, currently houses one of the largest collections in the world of documents in the Pashto and Dari languages.
 This collection is in the form of digitized, but not machine-readable (or searchable), documents.
+
+Pashto and other languages written in Arabic-like scripts pose some additional challenges in OCR
 
 [^1]:McKean, H. "Geometry of KdV(1): Additions and the Unimodular Spectral Class". *Revista Matematica Iberoamericana*, vol. 2, no. 3 (1986).
 [^2]:Ercolani, N. and McKean, H. "Geometry of KdV(4): Abel sums, Jacobi variety, and theta function in the scattering case". *Inventiones Mathematicae*, vol. 99, pp. 483-544 (1990).
