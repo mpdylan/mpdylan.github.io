@@ -7,5 +7,6 @@ url: "http://mpdylan.github.io"
 github_username: mpdylan
 
 markdown: kramdown
-remote_theme: poole/hyde
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 permalink: /blog/:year/:month/:day/:title
+plugins: jekyll-include-cache
