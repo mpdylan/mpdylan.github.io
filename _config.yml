@@ -1,10 +1,12 @@
 name: Dylan Murphy
 email: dylan@cotangent.space
 description: > 
-  I am a lecturer at the University of Arizona.
+    Bayesian statistician in the sports industry.
 baseurl: ""
 url: "http://mpdylan.github.io"
 github_username: mpdylan
+mastodon_username: dylanm
+mastodon_instance: mathstodon.xyz
 
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
