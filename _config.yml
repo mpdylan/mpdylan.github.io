@@ -11,4 +11,4 @@ mastodon_instance: mathstodon.xyz
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 permalink: /blog/:year/:month/:day/:title
-plugins: jekyll-include-cache
+plugins: [jekyll-include-cache]
